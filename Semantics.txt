@@ -1,0 +1,4 @@
+Semantic elements in HTML are special tags that give meaning to the content they cover or “wrap around”. 
+Unlike generic tags like “div” or “span”, semantic elements provide clarity and structure to web pages by describing the purpose of the contained content. 
+For instance, instead of using “divs” for headers, we can use special semantic tags like “nav” or “header”, which convey their built-in function to both browsers and developers. 
+Semantics make our code more accessible and understandable, both to browsers and developers.
